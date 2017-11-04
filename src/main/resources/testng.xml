@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    
+    <listeners>
+		<listener class-name="com.online.ExtentReport.extentrportlistner" />
+	</listeners>
+	
+  <test name="Test">
+      
+    <classes>
+      <class name="com.online.testcases.loginTestCase001"/>
+      <class name="com.online.testcases.RegistrationTestCase002"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

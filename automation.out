@@ -1,0 +1,359 @@
+2017-10-29 00:30:49 INFO  TestBase:92 - Creating object of ie
+2017-10-29 00:30:50 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 00:30:50 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 00:30:50 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 00:30:50 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 00:30:55 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 00:30:55 INFO  loginTestCase001:48 - ========== test case started ================== 
+2017-10-29 00:30:55 INFO  loginTestCase001:51 -  ------------------test case ended ---------- 
+2017-10-29 00:30:56 INFO  TestBase:92 - Creating object of ie
+2017-10-29 00:30:57 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 00:30:57 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 00:30:57 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 00:30:57 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 00:31:00 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 00:31:00 INFO  loginTestCase001:62 - ========== test case started ================== 
+2017-10-29 00:39:52 INFO  TestBase:71 - Creating object of chrome
+2017-10-29 00:39:54 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 00:46:55 INFO  TestBase:71 - Creating object of chrome
+2017-10-29 00:46:56 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 00:46:56 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 00:46:56 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 00:46:56 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 00:47:03 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 00:47:03 INFO  loginTestCase001:48 - ========== test case started ================== 
+2017-10-29 00:47:03 INFO  loginTestCase001:51 -  ------------------test case ended ---------- 
+2017-10-29 00:47:04 INFO  TestBase:71 - Creating object of chrome
+2017-10-29 00:47:04 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 00:47:05 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 00:47:05 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 00:47:05 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 00:47:11 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 00:47:11 INFO  loginTestCase001:62 - ========== test case started ================== 
+2017-10-29 00:47:13 INFO  loginPage:61 - clicked on 1st signin link   [[ChromeDriver: chrome on XP (0820b0a718e504028ececdd4389b7b84)] -> css selector: a[class='login']]
+2017-10-29 00:47:13 INFO  loginPage:65 - enterted email address in text box    [[ChromeDriver: chrome on XP (0820b0a718e504028ececdd4389b7b84)] -> css selector: input[id='email']]
+2017-10-29 00:47:13 INFO  loginPage:70 - enterted passowrd in text box    [[ChromeDriver: chrome on XP (0820b0a718e504028ececdd4389b7b84)] -> css selector: input[id='passwd']]
+2017-10-29 00:47:33 INFO  loginPage:74 - clicked on 2nd   signin button   [[ChromeDriver: chrome on XP (0820b0a718e504028ececdd4389b7b84)] -> css selector: button[id='SubmitLogin']]
+2017-10-29 00:47:33 INFO  loginTestCase001:66 -  ------------------test case ended ---------- 
+2017-10-29 13:09:09 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:09:12 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:09:12 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:09:12 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:09:12 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:09:18 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:09:18 INFO  RegistrationTestCase002:63 - ========== test case started ================== 
+2017-10-29 13:09:18 INFO  RegistrationTestCase002:72 -  ------------------test case ended ---------- 
+2017-10-29 13:09:18 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:09:20 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:09:20 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:09:20 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:09:20 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:09:25 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:09:25 INFO  RegistrationTestCase002:63 - ========== test case started ================== 
+2017-10-29 13:09:25 INFO  RegistrationTestCase002:72 -  ------------------test case ended ---------- 
+2017-10-29 13:09:25 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:09:27 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:09:27 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:09:27 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:09:27 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:09:32 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:09:32 INFO  RegistrationTestCase002:63 - ========== test case started ================== 
+2017-10-29 13:09:32 INFO  RegistrationTestCase002:72 -  ------------------test case ended ---------- 
+2017-10-29 13:09:33 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:09:35 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:09:35 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:09:35 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:09:35 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:09:42 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:09:42 INFO  RegistrationTestCase002:63 - ========== test case started ================== 
+2017-10-29 13:09:42 INFO  RegistrationTestCase002:72 -  ------------------test case ended ---------- 
+2017-10-29 13:09:42 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:09:45 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:09:45 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:09:45 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:09:45 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:09:50 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:09:50 INFO  RegistrationTestCase002:63 - ========== test case started ================== 
+2017-10-29 13:09:50 INFO  RegistrationTestCase002:72 -  ------------------test case ended ---------- 
+2017-10-29 13:17:30 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:17:33 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:17:33 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:17:33 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:17:33 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:17:39 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:17:39 INFO  RegistrationTestCase002:64 - ========== test case started ================== 
+2017-10-29 13:17:40 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (d646f533-8325-4913-b81c-c2ec21e99bc1)] -> css selector: a[class='login']]
+2017-10-29 13:17:40 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (d646f533-8325-4913-b81c-c2ec21e99bc1)] -> css selector: input[id='email_create']]
+2017-10-29 13:17:40 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (d646f533-8325-4913-b81c-c2ec21e99bc1)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 13:17:46 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (d646f533-8325-4913-b81c-c2ec21e99bc1)] -> css selector: input[value='1']]
+2017-10-29 13:17:46 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (d646f533-8325-4913-b81c-c2ec21e99bc1)] -> css selector: input[name='customer_firstname']]
+2017-10-29 13:17:46 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (d646f533-8325-4913-b81c-c2ec21e99bc1)] -> css selector: input[name='customer_lastname']]
+2017-10-29 13:17:46 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (d646f533-8325-4913-b81c-c2ec21e99bc1)] -> css selector: input[id='passwd']]
+2017-10-29 13:18:06 INFO  RegistrationTestCase002:76 -  ------------------test case ended ---------- 
+2017-10-29 13:18:06 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:18:09 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:18:09 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:18:09 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:18:09 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:18:14 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:18:14 INFO  RegistrationTestCase002:64 - ========== test case started ================== 
+2017-10-29 13:18:15 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (f1962fd7-a136-4b3e-a882-118a00e19682)] -> css selector: a[class='login']]
+2017-10-29 13:18:15 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (f1962fd7-a136-4b3e-a882-118a00e19682)] -> css selector: input[id='email_create']]
+2017-10-29 13:18:15 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (f1962fd7-a136-4b3e-a882-118a00e19682)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 13:18:20 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (f1962fd7-a136-4b3e-a882-118a00e19682)] -> css selector: input[value='1']]
+2017-10-29 13:18:21 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (f1962fd7-a136-4b3e-a882-118a00e19682)] -> css selector: input[name='customer_firstname']]
+2017-10-29 13:18:21 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (f1962fd7-a136-4b3e-a882-118a00e19682)] -> css selector: input[name='customer_lastname']]
+2017-10-29 13:18:21 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (f1962fd7-a136-4b3e-a882-118a00e19682)] -> css selector: input[id='passwd']]
+2017-10-29 13:18:41 INFO  RegistrationTestCase002:76 -  ------------------test case ended ---------- 
+2017-10-29 13:18:41 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:18:44 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:18:44 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:18:44 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:18:44 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:18:49 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:18:49 INFO  RegistrationTestCase002:64 - ========== test case started ================== 
+2017-10-29 13:18:50 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (9d212c20-3f5b-4cbe-8af9-0e2bb355a158)] -> css selector: a[class='login']]
+2017-10-29 13:18:50 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (9d212c20-3f5b-4cbe-8af9-0e2bb355a158)] -> css selector: input[id='email_create']]
+2017-10-29 13:18:51 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (9d212c20-3f5b-4cbe-8af9-0e2bb355a158)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 13:50:35 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:50:38 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:50:38 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:50:38 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:50:38 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:50:46 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:50:46 INFO  RegistrationTestCase002:64 - ========== test case started ================== 
+2017-10-29 13:50:47 INFO  RegistrationPage:124 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (e3c4714a-f4df-46ff-b0af-f660d26fe111)] -> css selector: a[class='login']]
+2017-10-29 13:50:47 INFO  RegistrationPage:128 - enterted email address in text box    [[FirefoxDriver: firefox on XP (e3c4714a-f4df-46ff-b0af-f660d26fe111)] -> css selector: input[id='email_create']]
+2017-10-29 13:50:48 INFO  RegistrationPage:134 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (e3c4714a-f4df-46ff-b0af-f660d26fe111)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 13:50:53 INFO  RegistrationPage:141 -  click on male radio button   [[FirefoxDriver: firefox on XP (e3c4714a-f4df-46ff-b0af-f660d26fe111)] -> css selector: input[value='1']]
+2017-10-29 13:50:53 INFO  RegistrationPage:146 -  first name entered    [[FirefoxDriver: firefox on XP (e3c4714a-f4df-46ff-b0af-f660d26fe111)] -> css selector: input[name='customer_firstname']]
+2017-10-29 13:50:53 INFO  RegistrationPage:151 -  last name entered    [[FirefoxDriver: firefox on XP (e3c4714a-f4df-46ff-b0af-f660d26fe111)] -> css selector: input[name='customer_lastname']]
+2017-10-29 13:50:53 INFO  RegistrationPage:156 -  password entered    [[FirefoxDriver: firefox on XP (e3c4714a-f4df-46ff-b0af-f660d26fe111)] -> css selector: input[id='passwd']]
+2017-10-29 13:51:13 INFO  RegistrationTestCase002:76 -  ------------------test case ended ---------- 
+2017-10-29 13:51:13 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:51:15 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:51:16 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:51:16 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:51:16 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:55:12 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:55:15 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:55:15 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:55:15 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:55:15 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 13:55:21 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 13:55:21 INFO  RegistrationTestCase002:64 - ========== test case started ================== 
+2017-10-29 13:55:22 INFO  RegistrationPage:124 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (0d2de560-eda6-42ab-aeb7-09a4ab49469c)] -> css selector: a[class='login']]
+2017-10-29 13:55:22 INFO  RegistrationPage:128 - enterted email address in text box    [[FirefoxDriver: firefox on XP (0d2de560-eda6-42ab-aeb7-09a4ab49469c)] -> css selector: input[id='email_create']]
+2017-10-29 13:55:23 INFO  RegistrationPage:134 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (0d2de560-eda6-42ab-aeb7-09a4ab49469c)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 13:55:28 INFO  RegistrationPage:141 -  click on male radio button   [[FirefoxDriver: firefox on XP (0d2de560-eda6-42ab-aeb7-09a4ab49469c)] -> css selector: input[value='1']]
+2017-10-29 13:55:28 INFO  RegistrationPage:146 -  first name entered    [[FirefoxDriver: firefox on XP (0d2de560-eda6-42ab-aeb7-09a4ab49469c)] -> css selector: input[name='customer_firstname']]
+2017-10-29 13:55:28 INFO  RegistrationPage:151 -  last name entered    [[FirefoxDriver: firefox on XP (0d2de560-eda6-42ab-aeb7-09a4ab49469c)] -> css selector: input[name='customer_lastname']]
+2017-10-29 13:55:28 INFO  RegistrationPage:156 -  password entered    [[FirefoxDriver: firefox on XP (0d2de560-eda6-42ab-aeb7-09a4ab49469c)] -> css selector: input[id='passwd']]
+2017-10-29 13:55:48 INFO  RegistrationTestCase002:76 -  ------------------test case ended ---------- 
+2017-10-29 13:55:48 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 13:55:51 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 13:55:51 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 13:55:51 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 13:55:51 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 14:31:50 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 14:31:53 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 14:31:53 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 14:31:53 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 14:31:53 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 14:31:59 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 14:31:59 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 14:32:00 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: a[class='login']]
+2017-10-29 14:32:01 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[id='email_create']]
+2017-10-29 14:32:01 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 14:32:06 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[value='1']]
+2017-10-29 14:32:06 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='customer_firstname']]
+2017-10-29 14:32:06 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='customer_lastname']]
+2017-10-29 14:32:06 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[id='passwd']]
+2017-10-29 14:32:06 INFO  RegistrationPage:186 -  cust first name again enter   [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='firstname']]
+2017-10-29 14:32:06 INFO  RegistrationPage:192 -  cust last name again enter   [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='lastname']]
+2017-10-29 14:32:06 INFO  RegistrationPage:197 -  cust cus_company  [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='company']]
+2017-10-29 14:32:07 INFO  RegistrationPage:201 -  cust cus_address1  [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='address1']]
+2017-10-29 14:32:07 INFO  RegistrationPage:205 -  cust cus_city [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='city']]
+2017-10-29 14:32:07 INFO  RegistrationPage:213 -  cust select_id_state	 
+2017-10-29 14:32:07 INFO  RegistrationPage:219 -  cust cus_postcode [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='postcode']]
+2017-10-29 14:32:07 INFO  RegistrationPage:224 -  cus_phone_mobile     [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='phone_mobile']]
+2017-10-29 14:32:07 INFO  RegistrationPage:230 -  cust cus_alias_address [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: input[name='alias']]
+2017-10-29 14:32:08 INFO  RegistrationPage:236 -  cust Register_ACC_button clicked  [[FirefoxDriver: firefox on XP (6f691a60-6381-4e14-a0ed-370b3c0a36a6)] -> css selector: button[name='submitAccount']]
+2017-10-29 15:19:08 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 15:19:11 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 15:19:11 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 15:19:11 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 15:19:11 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 15:19:21 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 15:19:21 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 15:19:22 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: a[class='login']]
+2017-10-29 15:19:22 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[id='email_create']]
+2017-10-29 15:19:22 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 15:19:27 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[value='1']]
+2017-10-29 15:19:27 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='customer_firstname']]
+2017-10-29 15:19:28 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='customer_lastname']]
+2017-10-29 15:19:28 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[id='passwd']]
+2017-10-29 15:19:28 INFO  RegistrationPage:186 -  cust first name again enter   [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='firstname']]
+2017-10-29 15:19:28 INFO  RegistrationPage:192 -  cust last name again enter   [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='lastname']]
+2017-10-29 15:19:28 INFO  RegistrationPage:197 -  cust cus_company  [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='company']]
+2017-10-29 15:19:28 INFO  RegistrationPage:201 -  cust cus_address1  [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='address1']]
+2017-10-29 15:19:28 INFO  RegistrationPage:205 -  cust cus_city [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='city']]
+2017-10-29 15:19:28 INFO  RegistrationPage:213 -  cust select_id_state	 
+2017-10-29 15:19:28 INFO  RegistrationPage:219 -  cust cus_postcode 
+2017-10-29 15:19:28 INFO  RegistrationPage:224 -  cus_phone_mobile     [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='phone_mobile']]
+2017-10-29 15:19:28 INFO  RegistrationPage:230 -  cust cus_alias_address [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: input[name='alias']]
+2017-10-29 15:19:29 INFO  RegistrationPage:236 -  cust Register_ACC_button clicked  [[FirefoxDriver: firefox on XP (f642b5b5-df8a-448f-ab22-8275b258d75c)] -> css selector: button[name='submitAccount']]
+2017-10-29 15:29:04 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 15:29:07 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 15:29:07 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 15:29:07 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 15:29:07 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 15:29:15 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 15:29:15 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 15:29:16 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: a[class='login']]
+2017-10-29 15:29:17 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[id='email_create']]
+2017-10-29 15:29:17 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 15:29:22 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[value='1']]
+2017-10-29 15:29:22 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='customer_firstname']]
+2017-10-29 15:29:22 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='customer_lastname']]
+2017-10-29 15:29:22 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[id='passwd']]
+2017-10-29 15:29:22 INFO  RegistrationPage:186 -  cust first name again enter   [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='firstname']]
+2017-10-29 15:29:22 INFO  RegistrationPage:192 -  cust last name again enter   [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='lastname']]
+2017-10-29 15:29:22 INFO  RegistrationPage:197 -  cust cus_company  [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='company']]
+2017-10-29 15:29:22 INFO  RegistrationPage:201 -  cust cus_address1  [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='address1']]
+2017-10-29 15:29:23 INFO  RegistrationPage:205 -  cust cus_city [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='city']]
+2017-10-29 15:29:23 INFO  RegistrationPage:213 -  cust select_id_state	 
+2017-10-29 15:29:23 INFO  RegistrationPage:219 -  cust cus_postcode 
+2017-10-29 15:29:23 INFO  RegistrationPage:224 -  cus_phone_mobile     [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='phone_mobile']]
+2017-10-29 15:29:23 INFO  RegistrationPage:230 -  cust cus_alias_address [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: input[name='alias']]
+2017-10-29 15:29:24 INFO  RegistrationPage:236 -  cust Register_ACC_button clicked  [[FirefoxDriver: firefox on XP (a30b86da-de73-42f1-9448-9be3946dc9f8)] -> css selector: button[name='submitAccount']]
+2017-10-29 15:33:15 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 15:33:19 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 15:33:19 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 15:33:19 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 15:33:19 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 15:33:29 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 15:33:29 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 15:33:31 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: a[class='login']]
+2017-10-29 15:33:31 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[id='email_create']]
+2017-10-29 15:33:31 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 15:33:36 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[value='1']]
+2017-10-29 15:33:36 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='customer_firstname']]
+2017-10-29 15:33:36 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='customer_lastname']]
+2017-10-29 15:33:36 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[id='passwd']]
+2017-10-29 15:33:36 INFO  RegistrationPage:186 -  cust first name again enter   [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='firstname']]
+2017-10-29 15:33:36 INFO  RegistrationPage:192 -  cust last name again enter   [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='lastname']]
+2017-10-29 15:33:37 INFO  RegistrationPage:197 -  cust cus_company  [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='company']]
+2017-10-29 15:33:37 INFO  RegistrationPage:201 -  cust cus_address1  [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='address1']]
+2017-10-29 15:33:37 INFO  RegistrationPage:205 -  cust cus_city [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='city']]
+2017-10-29 15:33:37 INFO  RegistrationPage:213 -  cust select_id_state	 
+2017-10-29 15:33:37 INFO  RegistrationPage:219 -  cust cus_postcode 
+2017-10-29 15:33:37 INFO  RegistrationPage:224 -  cus_phone_mobile     [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='phone_mobile']]
+2017-10-29 15:33:37 INFO  RegistrationPage:230 -  cust cus_alias_address [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: input[name='alias']]
+2017-10-29 15:33:38 INFO  RegistrationPage:236 -  cust Register_ACC_button clicked  [[FirefoxDriver: firefox on XP (5272fb1a-06ea-4fba-a2ae-b6c946142bb6)] -> css selector: button[name='submitAccount']]
+2017-10-29 15:47:02 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 15:47:04 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 15:47:04 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 15:47:04 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 15:47:04 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 15:47:09 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 15:47:09 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 15:47:22 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (e5416e92-134b-45e1-a07c-d7f69d2f5709)] -> css selector: a[class='login']]
+2017-10-29 15:47:42 INFO  RegistrationTestCase002:77 -  ------------------test case ended ---------- 
+2017-10-29 15:49:06 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 15:49:09 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 15:49:09 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 15:49:09 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 15:49:09 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 15:49:20 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 15:49:20 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 15:49:21 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: a[class='login']]
+2017-10-29 15:49:21 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[id='email_create']]
+2017-10-29 15:49:21 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 15:49:26 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[value='1']]
+2017-10-29 15:49:26 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='customer_firstname']]
+2017-10-29 15:49:27 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='customer_lastname']]
+2017-10-29 15:49:27 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[id='passwd']]
+2017-10-29 15:49:27 INFO  RegistrationPage:186 -  cust first name again enter   [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='firstname']]
+2017-10-29 15:49:27 INFO  RegistrationPage:192 -  cust last name again enter   [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='lastname']]
+2017-10-29 15:49:27 INFO  RegistrationPage:197 -  cust cus_company  [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='company']]
+2017-10-29 15:49:27 INFO  RegistrationPage:201 -  cust cus_address1  [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='address1']]
+2017-10-29 15:49:27 INFO  RegistrationPage:205 -  cust cus_city [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='city']]
+2017-10-29 15:49:27 INFO  RegistrationPage:213 -  cust select_id_state	 
+2017-10-29 15:49:27 INFO  RegistrationPage:219 -  cust cus_postcode 
+2017-10-29 15:49:27 INFO  RegistrationPage:224 -  cus_phone_mobile     [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='phone_mobile']]
+2017-10-29 15:49:27 INFO  RegistrationPage:230 -  cust cus_alias_address [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: input[name='alias']]
+2017-10-29 15:49:28 INFO  RegistrationPage:236 -  cust Register_ACC_button clicked  [[FirefoxDriver: firefox on XP (7a9290f7-b7e0-496e-91dc-c10717147163)] -> css selector: button[name='submitAccount']]
+2017-10-29 15:53:20 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 15:53:23 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 15:53:23 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 15:53:23 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 15:53:23 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 15:53:32 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 15:53:32 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 15:53:34 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: a[class='login']]
+2017-10-29 15:53:34 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[id='email_create']]
+2017-10-29 15:53:34 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 15:53:39 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[value='1']]
+2017-10-29 15:53:39 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='customer_firstname']]
+2017-10-29 15:53:39 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='customer_lastname']]
+2017-10-29 15:53:40 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[id='passwd']]
+2017-10-29 15:53:40 INFO  RegistrationPage:186 -  cust first name again enter   [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='firstname']]
+2017-10-29 15:53:40 INFO  RegistrationPage:192 -  cust last name again enter   [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='lastname']]
+2017-10-29 15:53:40 INFO  RegistrationPage:197 -  cust cus_company  [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='company']]
+2017-10-29 15:53:40 INFO  RegistrationPage:201 -  cust cus_address1  [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='address1']]
+2017-10-29 15:53:40 INFO  RegistrationPage:205 -  cust cus_city [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='city']]
+2017-10-29 15:53:40 INFO  RegistrationPage:213 -  cust select_id_state	 
+2017-10-29 15:53:40 INFO  RegistrationPage:219 -  cust cus_postcode 
+2017-10-29 15:53:40 INFO  RegistrationPage:224 -  cus_phone_mobile     [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='phone_mobile']]
+2017-10-29 15:53:40 INFO  RegistrationPage:230 -  cust cus_alias_address [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: input[name='alias']]
+2017-10-29 15:53:42 INFO  RegistrationPage:236 -  cust Register_ACC_button clicked  [[FirefoxDriver: firefox on XP (b2aaf65d-d351-40cb-bb35-e358870cb228)] -> css selector: button[name='submitAccount']]
+2017-10-29 15:54:28 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 15:54:32 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 15:54:32 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 15:54:32 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 15:54:32 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 15:54:37 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 15:54:37 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 15:54:39 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: a[class='login']]
+2017-10-29 15:54:39 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[id='email_create']]
+2017-10-29 15:54:39 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 15:54:44 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[value='1']]
+2017-10-29 15:54:44 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='customer_firstname']]
+2017-10-29 15:54:45 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='customer_lastname']]
+2017-10-29 15:54:45 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[id='passwd']]
+2017-10-29 15:54:45 INFO  RegistrationPage:186 -  cust first name again enter   [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='firstname']]
+2017-10-29 15:54:45 INFO  RegistrationPage:192 -  cust last name again enter   [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='lastname']]
+2017-10-29 15:54:45 INFO  RegistrationPage:197 -  cust cus_company  [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='company']]
+2017-10-29 15:54:45 INFO  RegistrationPage:201 -  cust cus_address1  [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='address1']]
+2017-10-29 15:54:45 INFO  RegistrationPage:205 -  cust cus_city [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='city']]
+2017-10-29 15:54:45 INFO  RegistrationPage:213 -  cust select_id_state	 
+2017-10-29 15:54:45 INFO  RegistrationPage:219 -  cust cus_postcode 
+2017-10-29 15:54:45 INFO  RegistrationPage:224 -  cus_phone_mobile     [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='phone_mobile']]
+2017-10-29 15:54:45 INFO  RegistrationPage:230 -  cust cus_alias_address [[FirefoxDriver: firefox on XP (ef047e7d-3d1e-4a8e-97ba-585f72ac8975)] -> css selector: input[name='alias']]
+2017-10-29 15:55:06 INFO  RegistrationPage:236 -  cust Register_ACC_button clicked  Proxy element for: DefaultElementLocator 'By.cssSelector: button[name='submitAccount']'
+2017-10-29 15:55:36 INFO  RegistrationPage:243 -  cust ACC_logOUT clicked  Proxy element for: DefaultElementLocator 'By.cssSelector: a[class='logout']'
+2017-10-29 15:55:44 INFO  RegistrationTestCase002:77 -  ------------------test case ended ---------- 
+2017-10-29 15:55:44 INFO  TestBase:83 - Creating object of firefox
+2017-10-29 15:55:47 INFO  TestBase:116 -  maximize the browser window  
+2017-10-29 15:55:47 INFO  TestBase:121 -  deleting cookies   
+2017-10-29 15:55:47 INFO  TestBase:124 - implicit wait applied   
+2017-10-29 15:55:47 INFO  TestBase:127 - page  load time out applied   
+2017-10-29 15:55:57 INFO  TestBase:130 -  getting url  from property file - configartions     
+2017-10-29 15:55:57 INFO  RegistrationTestCase002:65 - ========== test case started ================== 
+2017-10-29 15:55:59 INFO  RegistrationPage:123 - clicked on 1st new signin link   [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: a[class='login']]
+2017-10-29 15:55:59 INFO  RegistrationPage:127 - enterted email address in text box    [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[id='email_create']]
+2017-10-29 15:56:00 INFO  RegistrationPage:133 - clicked on 2nd   signin button   [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: button[id='SubmitCreate']]
+2017-10-29 15:56:05 INFO  RegistrationPage:140 -  click on male radio button   [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[value='1']]
+2017-10-29 15:56:05 INFO  RegistrationPage:145 -  first name entered    [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='customer_firstname']]
+2017-10-29 15:56:05 INFO  RegistrationPage:150 -  last name entered    [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='customer_lastname']]
+2017-10-29 15:56:05 INFO  RegistrationPage:155 -  password entered    [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[id='passwd']]
+2017-10-29 15:56:05 INFO  RegistrationPage:186 -  cust first name again enter   [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='firstname']]
+2017-10-29 15:56:05 INFO  RegistrationPage:192 -  cust last name again enter   [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='lastname']]
+2017-10-29 15:56:05 INFO  RegistrationPage:197 -  cust cus_company  [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='company']]
+2017-10-29 15:56:05 INFO  RegistrationPage:201 -  cust cus_address1  [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='address1']]
+2017-10-29 15:56:05 INFO  RegistrationPage:205 -  cust cus_city [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='city']]
+2017-10-29 15:56:06 INFO  RegistrationPage:213 -  cust select_id_state	 
+2017-10-29 15:56:06 INFO  RegistrationPage:219 -  cust cus_postcode 
+2017-10-29 15:56:06 INFO  RegistrationPage:224 -  cus_phone_mobile     [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='phone_mobile']]
+2017-10-29 15:56:06 INFO  RegistrationPage:230 -  cust cus_alias_address [[FirefoxDriver: firefox on XP (62b8fc10-a7bc-46e7-9ad5-912337b7cc38)] -> css selector: input[name='alias']]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.online.testcases.RegistrationTestCase002">
+        <methods>
+          <include name="setUP"/>
+          <include name="Registration_Test" invocation-numbers="1 2 3 4"/>
+          <include name="ternDown"/>
+        </methods>
+      </class> <!-- com.online.testcases.RegistrationTestCase002 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
